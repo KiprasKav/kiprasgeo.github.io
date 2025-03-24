@@ -1,2 +1,2 @@
-# kiprasgeo.github.io
+# kiprasgeo.github.com
 
